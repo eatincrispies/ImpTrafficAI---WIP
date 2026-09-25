@@ -19,11 +19,6 @@
 
 This plugin is designed to tweak and enhance the traffic AI logic in Need for Speed: Carbon. Existing code remains available for reference, but active development is on hold.
 
-## Features & Focus
-
-* Tweaking vehicle and rigid-body function tables to adjust collision reactions.
-* Refining traffic driver classes for better pathing behavior.
-
 ## Building
 
 * Requires Visual Studio and a C++ toolchain configured for ASI plugin development.
