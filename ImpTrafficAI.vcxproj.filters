@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{0B6F1C2E-7A44-4E31-8D5C-2A9E4F71B036}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Hooks">
+      <UniqueIdentifier>{9D2A5E73-1C8B-4F06-A3E7-5B14C9D82F40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\TrafficAI">
+      <UniqueIdentifier>{E4C83F19-62D7-4B5A-9F21-7C0A3D6E8B15}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\dllmain.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Hooks\ExeIdentity.cpp">
+      <Filter>src\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Hooks\Hook.cpp">
+      <Filter>src\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Hooks\Log.cpp">
+      <Filter>src\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Hooks\Memory.cpp">
+      <Filter>src\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TrafficAI\AIActionTraffic.cpp">
+      <Filter>src\TrafficAI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TrafficAI\AITraffic.cpp">
+      <Filter>src\TrafficAI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TrafficAI\AITrafficManager.cpp">
+      <Filter>src\TrafficAI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TrafficAI\AIVehicleTraffic.cpp">
+      <Filter>src\TrafficAI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TrafficAI\CollisionWorld.cpp">
+      <Filter>src\TrafficAI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TrafficAI\RandomSurveyor.cpp">
+      <Filter>src\TrafficAI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TrafficAI\TrafficCars.cpp">
+      <Filter>src\TrafficAI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TrafficAI\WRoadNetwork.cpp">
+      <Filter>src\TrafficAI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Hooks\Addresses.h">
+      <Filter>src\Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Hooks\ExeIdentity.h">
+      <Filter>src\Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Hooks\Hook.h">
+      <Filter>src\Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Hooks\Log.h">
+      <Filter>src\Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Hooks\Memory.h">
+      <Filter>src\Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="src\TrafficAI\AIActionTraffic.h">
+      <Filter>src\TrafficAI</Filter>
+    </ClInclude>
+    <ClInclude Include="src\TrafficAI\AITraffic.h">
+      <Filter>src\TrafficAI</Filter>
+    </ClInclude>
+    <ClInclude Include="src\TrafficAI\AITrafficManager.h">
+      <Filter>src\TrafficAI</Filter>
+    </ClInclude>
+    <ClInclude Include="src\TrafficAI\AIVehicleTraffic.h">
+      <Filter>src\TrafficAI</Filter>
+    </ClInclude>
+    <ClInclude Include="src\TrafficAI\CollisionWorld.h">
+      <Filter>src\TrafficAI</Filter>
+    </ClInclude>
+    <ClInclude Include="src\TrafficAI\RandomSurveyor.h">
+      <Filter>src\TrafficAI</Filter>
+    </ClInclude>
+    <ClInclude Include="src\TrafficAI\TrafficCars.h">
+      <Filter>src\TrafficAI</Filter>
+    </ClInclude>
+    <ClInclude Include="src\TrafficAI\WRoadNetwork.h">
+      <Filter>src\TrafficAI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
