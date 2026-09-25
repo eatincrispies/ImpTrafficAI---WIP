@@ -1,9 +1,33 @@
-## ImpTrafficAI
+<div align="center">
 
-Currently this mod has no description, this will be updated sooner or later.
+# ImpTrafficAI (WIP)
 
-### ⚠️ Notice: Projects Including THIS Mod Is Temporarily Paused
+*An ASI Plugin for Need for Speed: Carbon to improve traffic AI behavior.*
 
-All of my projects, updates, and support are **temporarily paused until further notice** due to family issues and personal matters. 
+[![Status](https://img.shields.io/badge/Status-Paused-critical?style=flat-square)]()
+[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
-Thank you for your patience and understanding. I'll return when things settle down.
+</div>
+
+---
+
+> [!IMPORTANT]
+> **Projects Temporarily Paused**
+> All updates, bug fixes, and support for this project are temporarily paused until further notice due to family issues and personal matters. 
+
+## Overview
+
+This plugin is designed to tweak and enhance the traffic AI logic in Need for Speed: Carbon. Existing code remains available for reference, but active development is on hold.
+
+## Features & Focus
+
+* Tweaking vehicle and rigid-body function tables to adjust collision reactions.
+* Refining traffic driver classes for better pathing behavior.
+
+## Building
+
+* Requires Visual Studio and a C++ toolchain configured for ASI plugin development.
+
+---
+
+Thank you for your patience and understanding while I handle things offline.
