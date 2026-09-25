@@ -35,4 +35,8 @@ NFS Carbon's original traffic AI suffered from several major issues due to EA ru
 
 ---
 
+# Credits
+`eatincrispies` - Mod Creator
+`roskler` Tester of the mod, reporting issues before release.
+
 Thank you for your patience and understanding while I handle things offline.
